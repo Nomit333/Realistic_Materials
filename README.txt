@@ -1,27 +1,4 @@
 Todos
-Ore Block Classes
-[ ] Acanhite
-[ ] Bauxite
-[X] Bornite
-[X] Cassiterite
-[X] Chalcocite
-[X] Chromite
-[X] Cinnabar
-[X] Cobaltite
-[X] Coltan
-[X] Galena
-[X] Hematite
-[X] Ilmenite
-[X] Magnetite
-[X] Malachite
-[X] Molybdenite
-[X] Pentladite
-[X] Pyrolustie
-[X] Scheelite
-[X] Sperrylite
-[X] Sphalerite
-[X] Uraninite
-[X] Wolframite
 
 Materials for Ores
 [ ] Acanhite
@@ -48,12 +25,12 @@ Materials for Ores
 [ ] Wolframite
 
 Textures for Ore Blocks
-[ ] Acanhite
-[ ] Bauxite
-[ ] Bornite
-[ ] Cassiterite
-[ ] Chalcocite
-[ ] Chromite
+[X] Acanhite
+[X] Bauxite
+[X] Bornite
+[X] Cassiterite
+[X] Chalcocite
+[X] Chromite
 [ ] Cinnabar
 [ ] Cobaltite
 [ ] Coltan
