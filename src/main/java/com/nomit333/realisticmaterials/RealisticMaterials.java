@@ -48,7 +48,7 @@ public class RealisticMaterials {
 
         @Override
         public ItemStack createIcon() {
-            return OreInit.ACANTHITE_ORE.get().getDefaultState();
+            return OreInit.ACANTHITE_ORE.get().getDefaultState()
         }
     }
 }
