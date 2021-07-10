@@ -1,0 +1,10 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="All Rights Reserved"
+[[mods]]
+modId="realisticmaterials"
+version="1.0"
+displayName="Realistic Materials"
+credits="Yeet"
+authors="Timon Andreas Wegner -Nomit333"
+description=''' A Mod that tries to bring Ores as Realistic as possible into Minecraft '''
